@@ -8,7 +8,7 @@ Para crear el entorno virtual para el proyecto (por ejemplo en visual studio cod
 Para instalar las dependencias necesarias, dentro del entorno virtual ejecutar:
 pip install -r .\requerimientos.txt
 
-Las variables de entorno se encuentran en el archivo conf.env
+Las variables de entorno se encuentran en el archivo .env
 
 Para crear la base de datos postgreSQL ejecutar el script creacion_bd.sql
 
